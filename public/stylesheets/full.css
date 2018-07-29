@@ -1,0 +1,92 @@
+/*
+ * Start Bootstrap - Full (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+html, body{
+    height: 100%;!important;
+    visibility: hidden;
+}
+/*body{
+    visibility: hidden;
+}*/
+.links{
+    visibility: hidden;
+}
+.navbar .navbar-toggle {
+    border-color: darkslategray; /* Removes border color */
+}
+.navbar .navbar-toggle .icon-bar{
+    background-color: darkslategray;
+}
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+    html, body{
+        height: 100%;!important;
+    }
+    #wrap{
+        margin: 0 5px 20px 5px;
+    }
+    .navbar-brand{
+        font-family: 'Lateef', cursive;
+        color: darkslategray!important;
+        font-size: 35px;
+    }
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    font-family:  'Arvo', serif;
+}
+.starter-template {
+    padding: 15rem 1.5rem;
+    text-align: center;
+    font-size: 40px;
+}
+a, a:hover, a:active, a:visited, a:focus {
+    text-decoration:none;
+    font-family: 'Lateef', cursive;
+    color: inherit;
+}
+em {
+    font-family: 'Lateef', cursive;
+    font-size: 70%;
+    font-style: normal;
+}
+/*navbar*/
+.navbar {
+    background-color: transparent !important;
+    border: 0!important;
+}
+.navbar-brand{
+    font-family: 'Lateef', cursive;
+    color: darkslategray!important;
+    font-size: 45px;
+}
+.navbar-nav a{
+    font-family: 'Arvo', serif;
+    color: darkslategray!important;
+}
+.navbar-fixed-top {
+    position: absolute!important;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .navbar .navbar-collapse {
+        text-align: center;
+        background-color: seashell;
+        opacity: 0.85;
+        border: 0;
+    }
+}

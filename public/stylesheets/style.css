@@ -1,0 +1,120 @@
+/*!
+ * Start Bootstrap - 2 Col Portfolio (http://startbootstrap.com/)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  font-family:  'Arvo', serif;
+  margin: 0 0 70px; /* bottom = footer height */
+  padding: 25px;
+  visibility: hidden;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+  .navbar-brand{
+    font-family: 'Lateef', cursive;
+    color: darkslategray!important;
+    font-size: 15px;
+  }
+  .back-to-top {
+    position: fixed;
+    bottom: 5px;
+    right: 0px;
+    text-decoration: none;
+    color: #000000;
+    background-color: none;
+    padding: 5px;
+    display: none;
+    z-index: 101
+  }
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/*h1{
+  text-align: center;
+  font-family: 'Lateef', cursive;
+  font-size: 45px;
+}*/
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  font-size: 12px;
+}
+
+/*navbar*/
+.navbar {
+  background-color: transparent !important;
+  border: 0!important;
+}
+.navbar-brand{
+  font-family: 'Lateef', cursive;
+  color: darkslategray!important;
+  font-size: 45px;!important;
+}
+.navbar-nav a{
+  font-family: 'Arvo', serif;
+  color: darkslategray!important;
+}
+.navbar-fixed-top {
+  position: absolute!important;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+.navbar .navbar-toggle {
+  border-color: darkslategray; /* Removes border color */
+}
+.navbar .navbar-toggle .icon-bar{
+  background-color: darkslategray;
+}
+@media (max-width: 768px) {
+  .navbar .navbar-collapse {
+    text-align: center;
+    background-color: seashell;
+    opacity: 0.85;
+    border: 0;
+  }
+  .navbar-brand{
+    font-family: 'Lateef', cursive;
+    color: darkslategray!important;
+    font-size: 35px;!important;
+  }
+}
+
+em {
+  font-family: 'Lateef', cursive;
+  font-size: 60%;
+  font-style: normal;
+}
+.back-to-top {
+  position: fixed;
+  bottom: 5px;
+  right: 0px;
+  text-decoration: none;
+  color: #000000;
+  background-color: none;
+  padding: 5px;
+  display: none;
+  z-index: 101;
+}
+
+/*:not.back-to-top:hover {
+  background-color: rgba(135, 135, 135, 0.50);
+}*/
