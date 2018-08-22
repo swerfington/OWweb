@@ -47,12 +47,12 @@
                  data-description="4juices"
                  style="display:none">-->
             <% var filePaths= dataThumbs;
-            console.log(filePaths[0]);
             for(var i=0; i < filePaths.length; i++){
                  var path= "images/thumbs/"+filePaths[i];
                  var pathBig = "images/big/"+filePaths[i];
+                 var text = dataText[i];
             %>
-            <img alt="text"
+            <img alt="<%=text%>"
                  src="<%=path%>"
                  data-image="<%=pathBig%>"
                  data-description="Avocado Toast with Feta"
