@@ -13,7 +13,6 @@ router.get('/', function(req, res ) {
 
     fs.readdirSync(imageFolder).forEach(file => {
         filePaths[i] = file;
-        console.log(file);
         names[i] = file.replaceAt(file.length - 5 , "     ").trim();
         i++;
     });

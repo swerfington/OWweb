@@ -90,3 +90,43 @@ em {
         border: 0;
     }
 }
+
+/*navbar*/
+.navbar {
+    background-color: transparent !important;
+    border: 0!important;
+}
+.navbar-brand{
+    font-family: 'Lateef', cursive;
+    color: darkslategray!important;
+    font-size: 45px;!important;
+}
+.navbar-nav a{
+    font-family: 'Arvo', serif;
+    color: darkslategray!important;
+}
+.navbar-fixed-top {
+    position: absolute!important;
+}
+.navbar .navbar-collapse {
+    text-align: center;
+}
+.navbar .navbar-toggle {
+    border-color: darkslategray; /* Removes border color */
+}
+.navbar .navbar-toggle .icon-bar{
+    background-color: darkslategray;
+}
+@media (max-width: 768px) {
+    .navbar .navbar-collapse {
+        text-align: center;
+        background-color: seashell;
+        opacity: 0.85;
+        border: 0;
+    }
+    .navbar-brand{
+        font-family: 'Lateef', cursive;
+        color: darkslategray!important;
+        font-size: 35px;!important;
+    }
+}
