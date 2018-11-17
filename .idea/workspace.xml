@@ -2,150 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6665d6-795c-40df-9fb4-a9b1c1374aeb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/Tanya.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/TanyaSpoon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/TanyaSpoon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/04.speculaas cookie sandwich biscuits.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/04_03_17_Hodder_GR_UFF_BerryAcai_097 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/04_03_17_Hodder_GR_UFF_IceLollies_ 19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/05.25.17_TheModelMethod_D2_NourishBo_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/05.25.17_TheModelMethod_D2_Plums_023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/05.Christmas chocolate bark 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/05_03_17_Hodder_GR_UFF_Day9_BeetwrootCarrotSalad_14_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/05_03_17_Hodder_GR_UFF_Day9_CaeserSalad_14_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/10.opener napkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/20.1.17_JAMES_HASKELL1242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Beer and rock salt pretzels copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Blackberry_Cupcakes copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Chicory Grape Salad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Chocolate tart with salt caramel copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Coconut Lime Quinoa Porridge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Cook opener copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Cosmopolitan_Bundt copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Courgette and Halloumi Frittatas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Delicious magazine pickled radishes and mint humous 1 leaves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Delicious magazine radishes opener 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Goan Chicken Curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Good Housekeeping - Photo - Maja Smend7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Lamb and Spinach Curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_Artichoke_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_ButterBeanSalad_036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_Cheesecake_093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_Drinks_035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_FigHalloumiTart_021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_FulSalad_024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_KibbeBanadoura_021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_LambStew_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_ManoushaSpinachFeta_033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_MeshwiyaSalad_017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_MougharabyaDajaj_085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_OrangeAlmondCake_033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/MiddleEast_Sayadieh_035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_BeefBlack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_Cabbage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_GreenTeaDarkStorm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_MojitoGinTonic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_MumsNoodles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/PC_PorkCrabmeatSoup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Pea Fritter Avocardo Smash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Ping_Day2_2171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Ping_Day5_2708.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Ping_Day_1_2009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Raost Pumpkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Red Thai Lentil Soup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Seabass with Broccoli mash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Spiced Steak with Sweetcorn mash 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 2 Susanna Blavarg2820.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 2 Susanna Blavarg3621.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 2 Susanna Blavarg3636.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 3 Susanna Blavarg3983.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 3 Susanna Blavarg4319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Tanya 3 Susanna Blavarg4673.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/Terrine_Smoked_Trout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/bocca di lupo game pie crumbs Jacob Kenedy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/cake special2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/cheesecake.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/health drinks.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/monkfish curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/big/trio soup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/04.speculaas cookie sandwich biscuits.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/04_03_17_Hodder_GR_UFF_BerryAcai_097 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/04_03_17_Hodder_GR_UFF_IceLollies_ 19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/05.25.17_TheModelMethod_D2_NourishBo_009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/05.25.17_TheModelMethod_D2_Plums_023.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/05.Christmas chocolate bark 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/05_03_17_Hodder_GR_UFF_Day9_BeetwrootCarrotSalad_14_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/05_03_17_Hodder_GR_UFF_Day9_CaeserSalad_14_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/10.opener napkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/20.1.17_JAMES_HASKELL1242.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Beer and rock salt pretzels copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Blackberry_Cupcakes copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Chicory Grape Salad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Chocolate tart with salt caramel copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Coconut Lime Quinoa Porridge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Cook opener copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Cosmopolitan_Bundt copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Courgette and Halloumi Frittatas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Delicious magazine pickled radishes and mint humous 1 leaves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Delicious magazine radishes opener 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Goan Chicken Curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Good Housekeeping - Photo - Maja Smend7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Lamb and Spinach Curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_Artichoke_012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_ButterBeanSalad_036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_Cheesecake_093.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_Drinks_035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_FigHalloumiTart_021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_FulSalad_024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_KibbeBanadoura_021.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_LambStew_010.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_ManoushaSpinachFeta_033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_MeshwiyaSalad_017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_MougharabyaDajaj_085.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_OrangeAlmondCake_033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/MiddleEast_Sayadieh_035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_BeefBlack.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_Cabbage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_GreenTeaDarkStorm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_MojitoGinTonic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_MumsNoodles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/PC_PorkCrabmeatSoup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Pea Fritter Avocardo Smash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Ping_Day2_2171.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Ping_Day5_2708.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Ping_Day_1_2009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Raost Pumpkin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Red Thai Lentil Soup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Seabass with Broccoli mash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Spiced Steak with Sweetcorn mash 1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 2 Susanna Blavarg2820.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 2 Susanna Blavarg3621.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 2 Susanna Blavarg3636.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 3 Susanna Blavarg3983.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 3 Susanna Blavarg4319.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Tanya 3 Susanna Blavarg4673.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/Terrine_Smoked_Trout.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/bocca di lupo game pie crumbs Jacob Kenedy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/cake special2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/health drinks.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/monkfish curry.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/thumbs/trio soup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/javascripts/homejquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/javascripts/homejquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/portfolio.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/portfolio.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/Jakefile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/Jakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/ejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/backslash.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/backslash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/comments.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/consecutive-tags.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/consecutive-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/double-quote.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/double-quote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/error.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/fail.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/hello-world.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-abspath.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-root.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-simple.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-simple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.css.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_cache.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_cache.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.css.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_cache.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_cache.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp_child.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/bom.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/menu-item.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/menu/item.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/literal.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/literal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_preprocessor.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_preprocessor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_var.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/messed.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/messed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.mixed.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.mixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.semicolons.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.semicolons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/para.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/pet.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/rmWhitespace.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/rmWhitespace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/single-quote.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/single-quote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/space-and-tab-slurp.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/space-and-tab-slurp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/strict.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/user-no-with.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/user.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/with-context.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/include.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/include_preprocessor.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/renderFile.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -177,8 +113,8 @@
       <file leaf-file-name="homejquery.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/homejquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="70" lean-forward="true" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+            <state relative-caret-position="187">
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -565,7 +501,7 @@
       <workItem from="1540137432356" duration="1364000" />
       <workItem from="1541866787074" duration="3155000" />
       <workItem from="1541873531667" duration="4562000" />
-      <workItem from="1542483731203" duration="8102000" />
+      <workItem from="1542483731203" duration="8623000" />
     </task>
     <task id="LOCAL-00001" summary="images">
       <created>1532881456105</created>
@@ -578,7 +514,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270066000" />
+    <option name="totallyTimeSpent" value="270587000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -925,8 +861,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/homejquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="70" lean-forward="true" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="187">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
