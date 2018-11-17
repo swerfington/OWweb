@@ -11,14 +11,14 @@ $(document).ready(function(){
     }
     else if($(window).width() < 768){
         $('.links').fadeIn(3000);
-        var imagesLarge = ['Tanya.jpg', 'TanyaSpoon.png'];
+        var imagesLarge = ['healthdrinks.jpg', 'MowieKay_HOMEPAGE.jpg', '2_MowieKay_HOMEPAGE.jpg'];
         var randomNumberL = Math.floor(Math.random() * imagesLarge.length);
         var bgImgL = 'url(images/' + imagesLarge[randomNumberL] + ')';
 
         $('body').css({'background':bgImgL+' no-repeat center center fixed', 'background-size':'cover' });
     }
     else {
-        var imagesLarge = ['Tanya.jpg', 'TanyaSpoon.png'];
+        var imagesLarge = ['healthdrinks.jpg', 'MowieKay_HOMEPAGE.jpg', '2_MowieKay_HOMEPAGE.jpg'];
         var randomNumberL = Math.floor(Math.random() * imagesLarge.length);
         var bgImgL = 'url(images/' + imagesLarge[randomNumberL] + ')';
         

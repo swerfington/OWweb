@@ -4,22 +4,37 @@ const imageFolder = "./public/images/thumbs";
 const fs = require('fs');
 var obj = {};
 var filePaths =[];
+var fileTrim = [];
 var names = [];
+var author = [];
+var photographer = [];
+var publisher = [];
 
+/*001.Ready Steady Glow_Madeleine Shaw_Martin Poole_Orion*/
 
 /* GET imagepaths*/
 router.get('/', function(req, res ) {
     var i = 0;
-
     fs.readdirSync(imageFolder).forEach(file => {
+        var labelArray = [];
         filePaths[i] = file;
-        names[i] = file.replaceAt(file.length - 5 , "     ").trim();
+        fileTrim[i] = file.replaceAt(file.length - 4 , "     ").trim();
+
+        labelArray = fileTrim[i].slice(4, fileTrim[i].length).split("_");
+        names[i] = labelArray[0];
+        author[i] = labelArray[1];
+        photographer[i] = labelArray[2];
+        publisher[i] = labelArray[3];
+
         i++;
     });
 
     obj = {
         "dataThumbs": filePaths,
-        "dataText": names
+        "dataName": names,
+        "dataAuthor": author,
+        "dataPhotographer": photographer,
+        "dataPublisher": publisher
     };
 
     res.render('portfolio', obj);
