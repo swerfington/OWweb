@@ -51,9 +51,9 @@
                  var path= "images/thumbs/"+filePaths[i];
                  var pathBig = "images/big/"+filePaths[i];
                  if(dataAuthor[i]==" ")
-                     var text = dataName[i]+", "+dataPhotographer[i]+", "+dataPublisher[i];
+                     var text = dataName[i]+", Photographer: "+dataPhotographer[i]+", Published by: "+dataPublisher[i];
                  else
-                     var text = dataName[i]+", "+dataAuthor[i]+", "+dataPhotographer[i]+", "+dataPublisher[i];
+                     var text = dataName[i]+", Author: "+dataAuthor[i]+", Photographer: "+dataPhotographer[i]+", Published by: "+dataPublisher[i];
 
             %>
             <img alt="<%=text%>"

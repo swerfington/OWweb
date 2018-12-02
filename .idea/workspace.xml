@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6665d6-795c-40df-9fb4-a9b1c1374aeb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/Jakefile" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/Jakefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/ejs.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/lib/ejs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/lib/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/ejs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/backslash.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/backslash.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/comments.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/consecutive-tags.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/consecutive-tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/double-quote.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/double-quote.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/error.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/error.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/fail.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/hello-world.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-abspath.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-root.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-simple.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include-simple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.css.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.css.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_cache.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_cache.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.css.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.css.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_cache.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_cache.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/include_preprocessor_line_slurp_child.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/bom.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/menu-item.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/includes/menu/item.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/literal.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/literal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_preprocessor.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_preprocessor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/menu_var.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/messed.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/messed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.mixed.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/newlines.mixed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.error.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.newlines.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.semicolons.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/no.semicolons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/para.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/pet.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/rmWhitespace.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/rmWhitespace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/single-quote.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/single-quote.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/space-and-tab-slurp.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/space-and-tab-slurp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/strict.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/user-no-with.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/user.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/fixtures/with-context.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/mocha.opts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/include.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/include_preprocessor.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/test/tmp/renderFile.ejs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -104,7 +25,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="697">
               <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
             </state>
           </provider>
@@ -122,8 +43,8 @@
       <file leaf-file-name="full.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/stylesheets/full.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+            <state relative-caret-position="1785">
+              <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -140,21 +61,16 @@
       <file leaf-file-name="portfolio.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/portfolio.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="374">
               <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seeds.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/images/seeds.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="portfolio.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/portfolio.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="1003">
               <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
             </state>
           </provider>
@@ -258,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -291,7 +208,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -501,7 +417,8 @@
       <workItem from="1540137432356" duration="1364000" />
       <workItem from="1541866787074" duration="3155000" />
       <workItem from="1541873531667" duration="4562000" />
-      <workItem from="1542483731203" duration="8623000" />
+      <workItem from="1542483731203" duration="9368000" />
+      <workItem from="1542743370562" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="images">
       <created>1532881456105</created>
@@ -514,7 +431,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270587000" />
+    <option name="totallyTimeSpent" value="271933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,15 +444,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="-7" width="1462" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49281046" visible="true" weight="0.16561404" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49687988" weight="0.32697546" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5031201" side_tool="true" weight="0.3286385" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32614556" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49687988" weight="0.32614556" />
-      <window_info active="true" anchor="bottom" x="62" y="321" width="1474" height="221" id="Run" order="2" visible="true" weight="0.287062" />
+      <window_info anchor="bottom" x="62" y="321" width="1474" height="221" id="Run" order="2" weight="0.287062" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2264151" />
       <window_info id="Favorites" order="2" sideWeight="0.50537634" side_tool="true" weight="0.24960998" />
@@ -548,6 +463,7 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32884097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32614556" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -571,7 +487,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/routes/portfolio.js</url>
           <line>20</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
@@ -579,6 +494,62 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/full.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/portfolio.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/UnitedGal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/aboutme.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/homejquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -796,54 +767,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="697">
           <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/portfolio.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="1003">
           <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/healthdrinks.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/MiddleEast_MougharabyaDajaj_085.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/trioSoup.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/TanyaSpoon.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/TanyaSpoon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/Tanya.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/portfolio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="374">
           <caret line="22" column="73" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="73" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/OW.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/MiddleEast_Drinks_035.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/MowieKay_HOMEPAGE.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/seeds.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/portfolio.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -854,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/full.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="105" column="35" lean-forward="true" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
+        <state relative-caret-position="1785">
+          <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
         </state>
       </provider>
     </entry>

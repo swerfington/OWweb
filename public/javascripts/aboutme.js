@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
 
     var images = ['subtle_grunge.png', 'subtle_white_feathers.png', 'egg_shell.png', 'ep_naturalwhite.png', 'extra_clean_paper.png', 'linedpaper.png', 'natural_paper.png', 'wall4.png'];
@@ -6,6 +6,10 @@ $(document).ready(function(){
     var bgImg = 'url(images/backgrounds/' + images[randomNumber] + ')';
     console.log(bgImg);
 
-    $('body').css({'background-image':bgImg });
-    $('body').css({'visibility':'visible' });
+    $('body').css({
+        'background-image': bgImg
+    });
+    $('body').css({
+        'visibility': 'visible'
+    });
 });

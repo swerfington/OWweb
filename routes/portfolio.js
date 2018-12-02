@@ -3,7 +3,7 @@ var router = express.Router();
 const imageFolder = "./public/images/thumbs";
 const fs = require('fs');
 var obj = {};
-var filePaths =[];
+var filePaths = [];
 var fileTrim = [];
 var names = [];
 var author = [];
@@ -13,12 +13,12 @@ var publisher = [];
 /*001.Ready Steady Glow_Madeleine Shaw_Martin Poole_Orion*/
 
 /* GET imagepaths*/
-router.get('/', function(req, res ) {
+router.get('/', function (req, res) {
     var i = 0;
     fs.readdirSync(imageFolder).forEach(file => {
         var labelArray = [];
         filePaths[i] = file;
-        fileTrim[i] = file.replaceAt(file.length - 4 , "     ").trim();
+        fileTrim[i] = file.replaceAt(file.length - 4, "     ").trim();
 
         labelArray = fileTrim[i].slice(4, fileTrim[i].length).split("_");
         names[i] = labelArray[0];
@@ -40,8 +40,8 @@ router.get('/', function(req, res ) {
     res.render('portfolio', obj);
 });
 
-String.prototype.replaceAt=function(index, replacement) {
-    return this.substr(0, index) + replacement+ this.substr(index + replacement.length);
+String.prototype.replaceAt = function (index, replacement) {
+    return this.substr(0, index) + replacement + this.substr(index + replacement.length);
 };
 
 module.exports = router;

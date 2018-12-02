@@ -126,7 +126,13 @@ em {
     }
     .navbar-brand{
         font-family: 'Lateef', cursive;
-        color: darkslategray!important;
-        font-size: 35px;!important;
+        color: seashell!important;
+        font-size: 35px!important;
     }
+    a, a:hover, a:active, a:visited, a:focus {
+        text-decoration:none;
+        font-family: 'Lateef', cursive;
+        color: seashell;
+    }
+
 }
